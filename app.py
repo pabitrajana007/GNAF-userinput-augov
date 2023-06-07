@@ -5,7 +5,7 @@
 ########################################################################################
 
 from flask import Flask, request, jsonify
-# Integrated API code to retrieve state and locality based on the postcode
+# Integrated API code to retrieve state and locality based on the postcode.
 import psycopg2
 import json
 
