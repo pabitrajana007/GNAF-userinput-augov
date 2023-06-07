@@ -1,7 +1,7 @@
 #  Script to scrape Australian postalcodes, locality and state from DATA.gov.au
 #                          (Australian Government)GNAF-2023
 #                 GNAF stands for Geoscape Geocoded National Access File.
-#                           by Pabitra Jana
+#                           by Pabitra Jana.
 ########################################################################################
 
 from flask import Flask, request, jsonify
